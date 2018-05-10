@@ -4,7 +4,7 @@
 #
 Name     : hyperstart
 Version  : 9e31bd560357c358ae4bbd94e86066847996620a
-Release  : 30
+Release  : 31
 URL      : https://github.com/clearcontainers/hyperstart/archive/0.7.0-clearcontainers/9e31bd560357c358ae4bbd94e86066847996620a.tar.gz
 Source0  : https://github.com/clearcontainers/hyperstart/archive/0.7.0-clearcontainers/9e31bd560357c358ae4bbd94e86066847996620a.tar.gz
 Summary  : No detailed summary available
